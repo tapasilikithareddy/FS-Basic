@@ -1,0 +1,71 @@
+IDE (Integrated Development Environment) - Provides all the features required to build a web application.
+    Link to download vsc: https://code.visualstudio.com/download
+        In windows - .exe - Double click on it. -> Install -> Next -> Finish
+
+2. Create a folder in file system
+    Open the folder -> File -> Open folder -> select folder -> open
+
+3. Technologies we learn as part of this batch FS-Basics-2518 11 AM (Frontend)
+    > HTML (Hyper Text Markup Language)
+    > CSS (Cascading Style Sheets)
+    > Javascript
+    > Bootstrap
+    React-25**-**
+    ES6
+    Typescript
+    React Js (Web) / React Native (Mobile)
+
+4. Develop web application/website. 
+    -> Design as a input -> Develop web app.
+    UI / UX Designer 
+        UI - User Interface
+        UX - User Experience
+    Tool -> Mockup -> Figma / Adobe XD
+    BA - Business Analyst -> Wireframes & Documents
+
+SDLC
+    Client -> Business Analyst -> UI / UX Designer -> Developers -> DevOps Engineer () -> Testing QA -> Customers
+
+HTML: 
+> It consists of predefined Markup tags/elements. -> To display the information (Text/Audio/Video/Image).
+CSS: (Cascading Style Sheets)
+-> To add styles & design layouts for HTML Tags.
+    Welcome to HTML Classes.
+Javascript: It's a programming Language
+    -> It adds functionality to HTML Tag.
+        Create an account
+Bootstrap:
+    -> To reduces the development time.
+        -> Predefined Components (Functionalities)
+
+HTML & CSS - Website - Static behaviour.
+> It consists of predefined markup tags.
+    Syntax: Tag
+        <tagName>Content</tagName>
+        <tagName> - Starting tag
+        </tagName> - Ending tag
+        
+> Basic syntax of every HTML File:
+    <html>
+        <head>
+        
+        </head>
+        <body>
+        
+        
+        </body>
+    </html>
+
+    File Explorer -> Search for the file -> Double click on the file -> O/p will be displayed automatically in browser.
+    > Header Tags
+        (h1 - h6) - Difference b/w each header tag is font size.
+        Syntax:
+            <h1>Content</h1>
+            <h2>Content</h2>
+            <h3>Content</h3>
+            <h4>Content</h4>
+            <h5>Content</h5>
+            <h6>Content</h6>
+
+Task: Setup vsc
+    Create a html file.

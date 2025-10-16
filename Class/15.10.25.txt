@@ -1,0 +1,56 @@
+Padding: Used to apply empty space around the content.
+
+    Syntax:
+
+        padding: 10px;
+
+        padding: top-bottom left-right;
+
+        padding: top right bottom left;
+
+        padding-left: 10px;
+
+        padding-right: 10px;
+
+        padding-top: 10px;
+
+        padding-bottom: 10px;
+
+Margin: Applies empty around the border.
+
+    Syntax:
+
+        margin: 10px;
+
+        margin: top-bottom left-right;
+
+        margin: top right bottom left;
+
+        margin-left: 10px;
+
+        margin-right: 10px;
+
+        margin-top: 10px;
+
+        margin-bottom: 10px;
+
+Height of Tag: margin-top + border-top + padding-top + height + padding-bottom + border-bottom + margin-bottom
+
+Width of Tag: margin-left + border-left + padding-left + width + padding-right + border-right + margin-right
+
+Outline: Applies border around the border:
+
+    Syntax:
+
+        outline: outline-width outline-style outline-color;
+
+Fontawesome library link:
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+Fontawesome library icons link:
+
+    https://fontawesome.com/icons
+
+Task Link: https://preview.colorlib.com/theme/unioncorp/

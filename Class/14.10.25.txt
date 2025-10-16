@@ -1,0 +1,119 @@
+Colors:
+
+    green | blueviolet | red | white
+
+Color Codes: (Given by designer)
+1. Hex Codes
+2. RGB (Red Green Blue)
+3. HSL (Hue Saturation Lightness)
+
+
+1. Hex Codes: Hexa Decimal Format
+
+    Syntax:
+
+        #000000 - #FFFFFF
+
+            First two values - Red Color
+
+            Second two values - Green Color
+
+            Third two values - Blue Color
+
+    Eg.
+
+        #001E4A
+
+
+        color: #001E4A;
+
+2. RGB:
+
+    R - Red
+
+    G - Green
+
+    B - Blue
+
+        Syntax:
+
+            rgb(0, 0, 0) - rgb(255, 255, 255);
+
+            rgba(0, 0, 0, 0) - rgba(255, 255, 255, 1);
+
+            a - Opacity
+
+3. HSL
+
+    H - Hue - Specifies the intensity of the color. - (0 - 360)
+
+        0 - 120 - Red
+
+        121 - 240 - Green
+
+        240 - 360 - Blue
+
+    S - Saturation - If saturation is more, color will be more brighter. (0% - 100%)
+
+    L - Lightness - If lightness is more, color will be more lighter. (0% - 100%)
+
+    Syntax:
+
+        color: hsl(0, 0%, 0%);
+
+
+> Reference to install Color Picker chrome extensions (Used for picking color codes)
+
+    https://chromewebstore.google.com/category/extensions
+
+
+> Division: Used to group multiple html tags into one unit.
+
+    Syntax:
+
+        <div>
+            // Multiple HTML Tags...
+        
+        </div>
+
+> Border: 
+
+    Syntax:
+
+        border: border-width border-style border-color;
+
+        border-width: 1px | 3px;
+
+        border-style: solid | dashed | dotted;
+
+        border-color: colorName | colorCode;
+
+        border-direction: border-width border-style border-color;
+
+    Eg.
+
+        border: 1px solid black;
+
+        border-left: 1px solid black;
+
+        border-right: 1px solid black;
+
+        border-top: 1px solid black;
+
+        border-bottom: 1px solid black;
+
+> Border Radius: Applies rounded corners for html element.
+
+    Syntax:
+
+        border-radius: 4px;
+
+Task:  https://preview.colorlib.com/theme/raptor/
+
+    Design recent blog portion of raptor website.
+
+    https://preview.colorlib.com/theme/raptor/images/image_1.jpg.webp
+
+    https://preview.colorlib.com/theme/raptor/images/image_2.jpg.webp
+
+    https://preview.colorlib.com/theme/raptor/images/image_3.jpg.webp

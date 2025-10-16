@@ -1,0 +1,92 @@
+CSS (Cascading Style Sheets): CSS is used for applying styles to html tags.
+Stylesheets
+1. Inline Stylesheet (In html tag)
+2. Internal Stylesheet (Head tag)
+3. External Stylesheet (Seperate file) - Projects
+
+External Stylesheet: Writing css in a seperate file.
+
+> CSS comes in form of predefined properties (Property-value pair)
+
+    Syntax:
+
+        property: value;
+
+        margin
+
+        padding
+
+        color: green | yellow | red 
+
+        font-size: 14px | 16px | 20px;
+
+        font-weight: normal | bold | 100 - 600;
+
+        text-align: left | center | right;
+
+        font-family: Arial | Time New Roman
+
+            #0070D2;
+
+External Stylesheet:
+
+    filename.css
+
+    selector {
+        property1: value1;
+        property2: value2;
+        property3: value;
+
+
+        propertyN: valuenN;
+    }
+
+
+    <head>
+        <link rel="stylesheet" href="filename.css">
+    </head>
+
+
+    100 MB
+
+
+    300 MB
+
+> Id: It is used to uniquely refer a html tag.
+
+    Syntax:
+
+        <tagName id="idname"></tagName>
+
+
+        #idname {
+            property1: value1;
+            property2: value2;
+            property3: value;
+
+
+            propertyN: valuenN;
+        }
+
+> Class: It is used to refer a group of html tags.
+
+    Syntax:
+
+        <tagName class="classname1 classname2 classname3"></tagName>
+
+
+        .idname {
+            property1: value1;
+            property2: value2;
+            property3: value;
+
+
+            propertyN: valuenN;
+        }
+
+Note: Id & Class name should be in lowercase. Every word should be seperated by (-) Hypen.
+
+
+> Tag: It is used to refer all the html tags.
+
+Task:

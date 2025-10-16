@@ -1,0 +1,49 @@
+Headers
+Paragraph: For displaying paragraph in web page.
+    Syntax:
+        <p>Content</p>
+
+HTML Complier: Complier takes input from user, executes it and displays output in browser.
+
+VSC - Extensions - Live Server
+    > It monitors the file changes, and when file is changed it will automatically refresh the web page.
+        In a laptop, we want to run multiple applications.
+            - Ports (0 - 65***)
+            27017
+
+            300
+    > http://127.0.0.1:5500/
+
+> Image: 
+    Syntax:
+        <img src="filename.ext" alt="Image Name">
+            src - Source
+            alt - Alternate
+
+> Attribute: It adds additional functionality to tag.
+    Syntax:
+        <tagName attribute1="value1" attribute2="value2" attribute3=value3  attributeN=valueN>Content</tagName>
+
+> Anchor: Navigate from one web page to another web page.
+    Syntax:
+        <a href="filename.html">Content</a>
+            href - Hyper Reference
+
+> Favicon: (Needs to added in head tag of html file)
+    <link rel="icon" href="filename.ext">
+
+> Title: (Needs to added in head tag of html file)
+    Syntax:
+    <title>Content</title>
+
+> Button: 
+    Syntax:
+        <button>Content</button>
+    
+
+> Division: Used to group set of HTML Tags into one unit. Used to divide the web page into different parts.
+    Syntax:
+        <div>
+            
+        
+        </div>

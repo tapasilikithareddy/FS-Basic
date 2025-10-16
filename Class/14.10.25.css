@@ -1,0 +1,21 @@
+h2 {
+    color:chartreuse;
+}
+
+h4 {
+    color:aqua;
+}
+
+h5 {
+    color:crimson;
+}
+
+#our-top-services{
+    color:darkgreen;
+    border: 1px solid green;
+}
+
+#our-top-services a{
+    border: 2px solid darkmagenta;
+    border-radius: 9px;
+}
