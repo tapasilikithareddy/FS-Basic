@@ -1,0 +1,65 @@
+Background Properties:
+1. background-color:
+2. background-image:
+3. background-size: Specify the size of the background.
+4. background-position: Specify the position of the background.
+5. background-attachment: Decide whether to fix or scroll background along with the content.
+6. background-repeat: Controls the repeation of background image
+
+2. background-image:
+
+    Syntax:
+
+        background-image: url('filename.ext');
+
+3. background-size:
+
+    Syntax:
+
+        background-size: 50px | 50% | cover;
+
+4. background-position:
+
+    Syntax:
+
+        background-position: center center | top center | bottom center | top left | bottom right | top center | bottom center;
+
+5. background-attachment:
+
+    Syntax:
+
+        background-attachment: fixed | scroll;
+
+6. background-repeat:
+
+    Syntax:
+
+        background-repeat: no-repeat | repeat;
+
+Font Family:
+
+    Syntax:
+
+        font-family: Arial | Times News Roman;
+
+Box Shadow: Applies shadow around the box.
+
+    Syntax:
+
+        box-shadow: horizontal-offset vertical-offset blur-radius spread-radius color;
+
+Text Shadow: Applies shadow around the text.
+
+    Syntax:
+
+        text-shadow: horizontal-offset vertical-offset blur-radius color;
+
+Overflow: Used to control the overflowed content.
+
+    Syntax:
+
+        overflow: scroll | scroll-x | scroll-y | hidden | auto | visible;
+
+Task: Design our pricing block of buildream website
+
+https://preview.colorlib.com/theme/buildream/
