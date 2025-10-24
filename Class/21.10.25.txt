@@ -1,0 +1,25 @@
+Types of HTML Elements/Tags
+1. Block Elements: It occupies parent element size.
+    Eg. Div, h1-h6, p, 
+
+2. Inline Elements: It occupies content size.
+
+    Eg. Img, a
+
+> We need to convert block elements into inline elements.
+
+    div
+
+Floats: Float is used to convert block element into inline elements.
+
+    > We can display block elements side by side.
+
+    Syntax:
+
+        float: left | right
+
+            > Left: It starts displaying the elements from left side.
+
+            > right: Starts displaying the elements from right side.
+
+        clear: left | right | both
